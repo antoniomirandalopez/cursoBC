@@ -1,0 +1,30 @@
+{
+  "id": "7b419d3f-679d-49b4-816a-6cce2e866f1d",
+  "name": "Curso BC",
+  "publisher": "bitec",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 90100,
+      "to": 90110
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "features": ["TranslationFile"]
+}
