@@ -18,7 +18,7 @@ page 90101 "ApiPageName"
             {
                 field(systemId; SystemId)
                 {
-
+                    Caption = 'hola';
                 }
                 field(documentType; "Document Type")
                 {
